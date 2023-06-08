@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<GroundOverlay><name>punto 3.png</name><color>88ffffff</color><Icon>
+<href>punto 3.png</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north> 0</north>
+<south> 0</south>
+<east> 0</east>
+<west> 0</west>
+</LatLonBox></GroundOverlay></kml>
