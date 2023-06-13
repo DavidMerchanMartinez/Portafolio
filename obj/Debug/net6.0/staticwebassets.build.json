@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1mI3YoE6X9fAQnkBmnjNvZ+fbtQ3a0OddFcbwFSY8hU=",
+  "Hash": "xR+zvGuug7y9Y56jgfoKWbuPCHLP0+GUDTI4+wzYe9k=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -102,12 +102,12 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\wwwroot\\imagenes\\punto 3.dat",
+      "Identity": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\wwwroot\\imagenes\\prueba.png",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\wwwroot\\",
       "BasePath": "_content/Portafolio",
-      "RelativePath": "imagenes/punto 3.dat",
+      "RelativePath": "imagenes/prueba.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -116,41 +116,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\punto 3.dat"
-    },
-    {
-      "Identity": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\wwwroot\\imagenes\\punto 3.kml",
-      "SourceId": "Portafolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\wwwroot\\",
-      "BasePath": "_content/Portafolio",
-      "RelativePath": "imagenes/punto 3.kml",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\punto 3.kml"
-    },
-    {
-      "Identity": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\wwwroot\\imagenes\\punto 3.png",
-      "SourceId": "Portafolio",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\wwwroot\\",
-      "BasePath": "_content/Portafolio",
-      "RelativePath": "imagenes/punto 3.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\imagenes\\punto 3.png"
+      "OriginalItemSpec": "wwwroot\\imagenes\\prueba.png"
     },
     {
       "Identity": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\wwwroot\\imagenes\\yo.jpeg",
