@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\Portafolio.csproj",
+      "projectUniqueName": "C:\\Users\\57321\\Desktop\\ProyectosC#\\Portafolio\\Portafolio.csproj",
       "projectName": "Portafolio",
-      "projectPath": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\Portafolio.csproj",
+      "projectPath": "C:\\Users\\57321\\Desktop\\ProyectosC#\\Portafolio\\Portafolio.csproj",
       "packagesPath": "C:\\Users\\57321\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\57321\\Desktop\\ProyectoC#\\Portafolio\\obj\\",
+      "outputPath": "C:\\Users\\57321\\Desktop\\ProyectosC#\\Portafolio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\57321\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,7 +52,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -63,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

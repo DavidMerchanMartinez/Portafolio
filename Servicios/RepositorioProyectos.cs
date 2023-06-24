@@ -14,32 +14,32 @@ namespace Portafolio.Servicios
             {
                 new ProyectoDTO
                 {
-                    Titulo = "Amazon",
-                    Descripcion = "E-commerce realizado en ASP.NET Core",
-                    Link =  "https://amazon.com",
-                    ImagenURL = "/imagenes/prueba.png"
+                    Titulo = "Finanzas",
+                    Descripcion = "Administrador de presupuesto en ASP.NET Core",
+                    Link =  "https://github.com/DavidMerchanMartinez/ManejoPresupuesto",
+                    ImagenURL = "/imagenes/Transacciones_Dia.png"
                 },
                 new ProyectoDTO
                 {
-                    Titulo = "New York Times",
-                    Descripcion = "Pagina de noticias en react",
-                    Link =  "https://nytimes.com",
-                    ImagenURL = "/imagenes/prueba.png"
+                    Titulo = "Portafolio",
+                    Descripcion = "Descripcion general del programador",
+                    Link =  "https://github.com/DavidMerchanMartinez/Portafolio",
+                    ImagenURL = "/imagenes/Portafolio.png"
                 },
-                new ProyectoDTO
-                {
-                    Titulo = "Reddit",
-                    Descripcion = "Red social para compartir en comunidades",
-                    Link =  "https://reddit.com",
-                    ImagenURL = "/imagenes/prueba.png"
-                },
-                new ProyectoDTO
-                {
-                    Titulo = "steam",
-                    Descripcion = "tienda en linea para comprar videojuegos",
-                    Link =  "https://store.steampowered.com",
-                    ImagenURL = "/imagenes/prueba.png"
-                },
+                //new ProyectoDTO
+                //{
+                //    Titulo = "Reddit",
+                //    Descripcion = "Red social para compartir en comunidades",
+                //    Link =  "https://reddit.com",
+                //    ImagenURL = "/imagenes/prueba.png"
+                //},
+                //new ProyectoDTO
+                //{
+                //    Titulo = "steam",
+                //    Descripcion = "tienda en linea para comprar videojuegos",
+                //    Link =  "https://store.steampowered.com",
+                //    ImagenURL = "/imagenes/prueba.png"
+                //},
             };
         }
     }

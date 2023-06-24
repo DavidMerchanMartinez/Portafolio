@@ -19,7 +19,7 @@ namespace Portafolio.Controllers
         public IActionResult Index()
         {
          
-            var proyectos = repositorioProyectos.ObtenerProyectos().Take(3).ToList();
+            var proyectos = repositorioProyectos.ObtenerProyectos().Take(2).ToList();
             var modelo = new HomeIndex() { Proyectos = proyectos };
             return View(modelo);
         }
